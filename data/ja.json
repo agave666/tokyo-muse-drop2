@@ -1,0 +1,76 @@
+{
+  "app": {
+    "title": "TOKYO MUSE DROP",
+    "tagline": "東京ミューズドロップ — 本アプリ限定の撮り下ろしフォト"
+  },
+  "nav": {
+    "play": "プレイ",
+    "album": "アルバム",
+    "models": "モデル",
+    "settings": "設定"
+  },
+  "play": {
+    "title": "レベル選択",
+    "streak": "連続クリア",
+    "dailyPlays": "本日のプレイ回数",
+    "level": "レベル",
+    "start": "スタート",
+    "objective": "目標",
+    "reach_score": "{{moves}}手で{{score}}点を達成"
+  },
+  "puzzle": {
+    "score": "スコア",
+    "moves": "残り手数",
+    "target": "目標",
+    "victory": "レベルクリア!",
+    "defeat": "手数切れ",
+    "tryAgain": "もう一度",
+    "continue": "続ける",
+    "reward": "報酬獲得",
+    "revealProgress": "フォト公開進行度 +1",
+    "photographersCut": "フォトグラファーズカット",
+    "shootNote": "東京ロケ・自然光撮影"
+  },
+  "album": {
+    "title": "フォトアルバム",
+    "progress": "進行度",
+    "locked": "ロック中",
+    "playToReveal": "レベルをクリアして写真を公開",
+    "revealed": "公開済み",
+    "stage": "ステージ {{current}} / {{total}}",
+    "viewExternal": "外部リンクを見る",
+    "allRevealed": "このモデルの全写真が公開されました!"
+  },
+  "models": {
+    "title": "出演モデル",
+    "verified": "全モデルは18歳以上、本人確認済み、許諾済コンテンツです。",
+    "contentPolicy": "ヌード・水着なし。ファッション&ポートレート限定。",
+    "instagram": "Instagram",
+    "tiktok": "TikTok",
+    "fanSite": "ファンサイト"
+  },
+  "settings": {
+    "title": "設定",
+    "language": "言語",
+    "english": "English",
+    "japanese": "日本語",
+    "contentPolicy": "コンテンツポリシー",
+    "policyText": "ヌード・水着なし。出演者は18歳以上。許諾済コンテンツ。",
+    "resetProgress": "進行度をリセット",
+    "resetConfirm": "本当にリセットしますか？全ての公開済み写真がクリアされます。",
+    "reset": "リセット",
+    "cancel": "キャンセル"
+  },
+  "boosters": {
+    "title": "ブースター",
+    "extraMoves": "+5手",
+    "extraPlays": "追加プレイ権",
+    "comingSoon": "近日公開!",
+    "description": "難関レベルをクリアするためのパワーアップ"
+  },
+  "common": {
+    "close": "閉じる",
+    "back": "戻る",
+    "loading": "読み込み中..."
+  }
+}

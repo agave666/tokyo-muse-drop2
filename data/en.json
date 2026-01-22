@@ -1,0 +1,76 @@
+{
+  "app": {
+    "title": "TOKYO MUSE DROP",
+    "tagline": "Exclusive Photo Drops — Shot in Tokyo"
+  },
+  "nav": {
+    "play": "Play",
+    "album": "Album",
+    "models": "Models",
+    "settings": "Settings"
+  },
+  "play": {
+    "title": "Level Select",
+    "streak": "Streak",
+    "dailyPlays": "Daily Plays",
+    "level": "Level",
+    "start": "Start Level",
+    "objective": "Objective",
+    "reach_score": "Reach {{score}} points in {{moves}} moves"
+  },
+  "puzzle": {
+    "score": "Score",
+    "moves": "Moves",
+    "target": "Target",
+    "victory": "Level Complete!",
+    "defeat": "Out of Moves",
+    "tryAgain": "Try Again",
+    "continue": "Continue",
+    "reward": "Reward Unlocked",
+    "revealProgress": "Photo Reveal Progress +1",
+    "photographersCut": "Photographer's Cut",
+    "shootNote": "Shot on location in Tokyo with natural lighting"
+  },
+  "album": {
+    "title": "Photo Album",
+    "progress": "Progress",
+    "locked": "Locked",
+    "playToReveal": "Play more levels to reveal this photo",
+    "revealed": "Revealed",
+    "stage": "Stage {{current}} of {{total}}",
+    "viewExternal": "View External Links",
+    "allRevealed": "All photos revealed for this model!"
+  },
+  "models": {
+    "title": "Featured Models",
+    "verified": "All models are 18+, verified, and content is fully licensed.",
+    "contentPolicy": "No nudity. No swimwear. Professional fashion & portrait content only.",
+    "instagram": "Instagram",
+    "tiktok": "TikTok",
+    "fanSite": "Fan Site"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "english": "English",
+    "japanese": "日本語",
+    "contentPolicy": "Content Policy",
+    "policyText": "No nudity. No swimwear. 18+ models. Licensed content.",
+    "resetProgress": "Reset Progress",
+    "resetConfirm": "Are you sure? This will clear all unlocked photos.",
+    "reset": "Reset",
+    "cancel": "Cancel"
+  },
+  "boosters": {
+    "title": "Boosters",
+    "extraMoves": "+5 Moves",
+    "extraPlays": "Extra Daily Attempts",
+    "comingSoon": "Coming soon!",
+    "description": "Power-ups to help you clear challenging levels"
+  },
+  "common": {
+    "close": "Close",
+    "back": "Back",
+    "loading": "Loading..."
+  }
+}
